@@ -1,0 +1,6 @@
+float a;
+IF a < 10 {
+	print(a)
+} ELSE {
+	print(10)
+}

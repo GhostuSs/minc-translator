@@ -1,0 +1,9 @@
+float a;
+input(a)
+float count;
+input(count)
+float i;
+i = 0
+WHILE i < count {
+	print(a)
+}

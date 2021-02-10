@@ -1,0 +1,7 @@
+float a;
+float b;
+b = 10000
+WHILE a < b {
+	a = a + 1
+}
+print(a)

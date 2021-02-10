@@ -1,0 +1,12 @@
+float a, b, c;
+input(a)
+input(b)
+WHILE a >= b {
+	a = a + 1
+}
+IF a > b {
+	c = a
+} ELSE {
+	c = b
+}
+print(c)
